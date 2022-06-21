@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portalDeFilmes/static/css/main.248dff31.css",
+    "main.js": "/portalDeFilmes/static/js/main.f993ed59.js",
+    "index.html": "/portalDeFilmes/index.html",
+    "main.248dff31.css.map": "/portalDeFilmes/static/css/main.248dff31.css.map",
+    "main.f993ed59.js.map": "/portalDeFilmes/static/js/main.f993ed59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248dff31.css",
+    "static/js/main.f993ed59.js"
+  ]
+}
